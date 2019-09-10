@@ -1,0 +1,29 @@
+### target ###
+**/target/
+
+### logs目录 ###
+logs/
+
+### IntelliJ IDEA ###
+.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+
+### IntelliJ IDEA ###
+**/.DS_Store
+
+### eclipse ###
+.project
+.settings/
+
+### file目录 ###
+file/
+
+## SVN
+**/.svn/
+
+## class文件
+classes/*
+
+## **/test/
